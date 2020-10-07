@@ -1,30 +1,31 @@
-### Hi there, My name is Shantanu 👋
+<h1 align="center">Hi 👋, I'm Shantanu</h1>
+<h3 align="center">A passionate developer from India</h3>
 
-Welcome to My Github Profile
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sskale1" alt="sskale1" /> </p>
 
-- 🎓 I'm a Junior in College
-- 🔭 I’m currently working on developing Android Applications
-- 🌱 I’m currently learning Machine Learning and Artificial Intelligence
-- 👯 I’m looking to collaborate on Open Source Projetcs
-- 🤔 I’m looking for help with Machine Learning
+- 🔭 I’m currently working on **developing Android Applications**
 
-##### Some more stuff about me
+- 🌱 I’m currently learning **Flutter**
 
-### Programming Languages 🌐
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="Cpp" width="24">](https://isocpp.org/) | [<img src="https://github.com/SSKale1/SSKale1/blob/main/content/kisspng-java-development-kit-software-development-kit-comp-programming-language-icon-5b4b9cb1e74f20.0073080715316819699475.jpg" alt="java" width="38">](https://www.java.com/en/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="24">](https://www.python.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="Kotlin" width="24">](https://kotlinlang.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" width="24">](https://www.mysql.com/) | [<img src="https://github.com/SSKale1/SSKale1/blob/main/content/c.png" alt="C" width="24">](https://en.wikipedia.org/wiki/C_(programming_language))
-|---|---|---|---|---|---|
+- 🤝 I’m looking for help with **Machine Learning**
 
-### Tools 🛠️
+- 📫 How to reach me **shantanuskale@hotmail.com**
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24">](https://www.mysql.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="24">](https://firebase.google.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/) | [<img src="https://github.com/SSKale1/SSKale1/blob/main/content/linux-17-570099.png" alt="Linux" width="24">](https://kali.org/)  |  [<img src="https://github.com/SSKale1/SSKale1/blob/main/content/512px-Android_Studio_icon.svg.png" alt="Redis" width="24">](https://redis.io/) | [<img src="https://github.com/SSKale1/SSKale1/blob/main/content/Atom_1.0_icon.png" alt="Atom Editor" width="24">](https://redis.io/) | 
-|---|---|---|---|---|---|---|
+<p align="left">
+<h3 align="left">Connect with me:</h3>
+<a href="https://linkedin.com/in/shantanu-s-kale" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shantanu-s-kale" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sskale" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="sskale" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-[![Shantanu's github stats](https://github-readme-stats.vercel.app/api?username=SSKale1&show_icons=true&theme=radical)](https://github.com/SSKale1/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sskale1&layout=compact" alt="sskale1" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SSKale1&layout=compact)](https://github.com/SSKale1/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sskale1&show_icons=true&theme=radical" alt="sskale1" /></p>
+
 
 <!--
 **SSKale1/SSKale1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
