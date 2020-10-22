@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shantanu</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h4 align="center">I'm currently pursuing Bachelor's in Computer Science and Engineering, I've been developing Android Applications for a while. Still learning a lot of Stuff, open to new technologies, and definitely am looking for an Internship.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sskale1" alt="sskale1" /> </p>
 
