@@ -7,10 +7,12 @@
 
 - 📫 How to reach me **shantanuskale@hotmail.com**
 
+- ⚡ Blackhat Asia & USA Arsenal 2022 Presenter.
+
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/shantanu-s-kale" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shantanu-s-kale" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sskale" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="sskale" height="30" width="40" /></a>
+<a href="https://twitter.com/4_r43" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sskale" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
