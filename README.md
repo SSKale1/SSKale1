@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shantanu</h1>
-<h4 align="center">I'm currently pursuing Bachelor's in Computer Science and Engineering, Cybersecurity practitioner with strong roots in web application assessment, network penetration testing, vulnerability scanning, phishing assessments and osint.</h4>
+<h4 align="center">I'm currently working as a Cloud Developer at INE, Cybersecurity practitioner with strong roots in web application assessment, network penetration testing, vulnerability scanning, phishing assessments and osint.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sskale1" alt="sskale1" /> </p>
 
-- 🔭 I’m currently working on **Web App and Network Security**
-
-- 👯 I’m looking to collaborate on **Open Source Projects**
-
-- 🤝 I’m looking for help with **Bug Bounty Programs**
+- 🔭 I’m currently working on **AWS, Azure, GCP, IaC, Web App and Network Security**
 
 - 📫 How to reach me **shantanuskale@hotmail.com**
 
